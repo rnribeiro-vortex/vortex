@@ -1,0 +1,11 @@
+﻿site_name: Documentacao Glue Catalog
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Vortex Catalog:
+      - Bancos de Dados: vortex/databases.md
+      - Tabelas: vortex/tables.md
